@@ -243,3 +243,5 @@ def calculate_net_salary():
 
 # Run the function
 calculate_net_salary()
+
+"Hello"
